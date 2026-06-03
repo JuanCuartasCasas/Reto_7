@@ -10,3 +10,10 @@ A partir de uso de diferentese estructuras de datos, se busca administrar petici
   + Define a **named tuple** somewhere in the menu, e.g. to define a set of items.
   + Create an interface in the order class, to create a new menu, aggregate the functions for add, update, delete items. All the menus should be stored as JSON files. (use dicts for this task.)
 
+## Guía de apoyo
+- En este reto, la ayuda debe ser tipo **asesoría**: explicar pasos, sugerir mejoras y orientar, sin resolver todo de forma directa.
+- Si un archivo aparece “en rojo”, depúralo con este orden:
+  1. Revisa errores de sintaxis (paréntesis, comas, sangría y llaves).
+  2. Verifica nombres de variables/funciones y rutas de archivos.
+  3. Ejecuta el archivo por partes para ubicar la línea exacta del error.
+  4. Corrige y vuelve a ejecutar hasta que no aparezcan errores.
